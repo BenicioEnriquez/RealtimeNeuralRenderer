@@ -1,5 +1,5 @@
 # Real-time Neural Renderer
-[![Neural Renderer Demo](http://img.youtube.com/vi/SHTunCmTqFg/0.jpg)](http://www.youtube.com/watch?v=SHTunCmTqFg "Project Morpheus - v0.3 Demo")
+[![Neural Renderer Demo](http://img.youtube.com/vi/XSCdeFg10GU/0.jpg)](http://www.youtube.com/watch?v=XSCdeFg10GU "Project Morpheus - v0.4 Demo")
 
 Latent diffusion models have high speed image synthesis capabilities that can used for manipulating existing images and synthetic 3D geometry with ease, having the potential to greatly increase the perceived realism with minimal effort.
 
